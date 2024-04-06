@@ -1,14 +1,4 @@
 # Youtube-Personality-Traits_detection
-
-## Usage
-
-1. Install requirements.txt <br>
-   ```pip install -r /path/to/requirements.txt```
-2. Run main.py <br>
-  ``` python main.py```
-4. You'll be redirect to localhost:127.0.0.1:5500/
-5. Enter any YouTube Link to Analyze the video
-
    
 ## Introduction
 
@@ -31,6 +21,15 @@ This project aims to decode personality traits through the analysis of text extr
 ## Abstract
 
 The abstract provides an overview of the research study, highlighting the importance of understanding online video content and its correlation with personality traits. It outlines the methodology, dataset selection, data preprocessing steps, feature selection techniques, system architecture, model building, and result analysis.
+
+## Usage
+
+1. Install requirements.txt <br>
+   ```pip install -r /path/to/requirements.txt```
+2. Run main.py <br>
+  ``` python main.py```
+4. You'll be redirect to localhost:127.0.0.1:5500/
+5. Enter any YouTube Link to Analyze the video
 
 ## Methodology
 
