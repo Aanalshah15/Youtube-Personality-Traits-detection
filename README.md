@@ -72,7 +72,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Special thanks to Trent University for supporting this research project. We acknowledge the contributions of all team members and advisors who contributed to the success of this study.
 
-## Additional Notes
 
-For any inquiries or collaborations, please contact the authors via the provided email addresses.
-Feedback and contributions are welcome. Feel free to submit issues or pull requests to improve the project.
