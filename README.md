@@ -1,5 +1,15 @@
 # Youtube-Personality-Traits_detection
 
+## Usage
+
+1. Install requirements.txt <br>
+   ```pip install -r /path/to/requirements.txt```
+2. Run main.py <br>
+  ``` python main.py```
+4. You'll be redirect to localhost:127.0.0.1:5500/
+5. Enter any YouTube Link to Analyze the video
+
+   
 ## Introduction
 
 This project aims to decode personality traits through the analysis of text extracted from YouTube videos. The research utilizes a combination of machine learning algorithms and natural language processing techniques to infer personality characteristics such as agreeableness, neuroticism, conscientiousness, extroversion, and openness to new experiences from video captions.
@@ -46,7 +56,8 @@ datasets: Directory containing dataset files used in the research study.
 Python 3.x
 Libraries: scikit-learn, TensorFlow, NLTK, Pandas, NumPy, Flask, Transformers, Hugging Face, Matplotlib, etc.
 
-## Usage
+
+
 
 Clone the repository to your local machine.
 Install the required dependencies using pip or conda.
