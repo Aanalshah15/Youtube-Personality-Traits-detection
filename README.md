@@ -1,4 +1,4 @@
-# Youtube-Personality-Traits_detection
+# Youtube-Personality-Traits-detection
    
 ## Introduction
 
